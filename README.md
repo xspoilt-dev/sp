@@ -182,5 +182,5 @@ https://teamdccs.com/api/spoof/?action=get_balance&api_key=YOUR_API_KEY&number=1
 - `400` Invalid action
 
 @version 1.1
-@author API Development Team
-@link https://your-domain.com/api/documentation Full API Documentation
+@author SAIMUN
+
