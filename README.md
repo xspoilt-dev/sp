@@ -6,7 +6,7 @@ balance management, and number changes.
 
 ## Base URL
 ```
-https://your-domain.com/api/a.php
+https://your-domain.com/api/spoof/
 ```
 
 ## Authentication
